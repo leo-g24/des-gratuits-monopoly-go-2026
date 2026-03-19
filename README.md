@@ -71,12 +71,12 @@ Liens du jour + amis Facebook + events bien joués = **500 à 800 dés gratuits 
 | Ressource | Lien |
 |---|---|
 | Guide complet mis à jour | [greedyhog-games.com/monopoly-go-des-gratuits/](https://greedyhog-games.com/monopoly-go-des-gratuits/) |
-| Documentation Notion | *(à ajouter)* |
-| Article Medium | *(à ajouter)* |
-| Article Substack | *(à ajouter)* |
+| Documentation Notion |  https://desert-moustache-53b.notion.site/Ressources-gratuites-jeux-mobile-2026-guides-officiels-test-s-328571b37bdd80e29e26e2b74b6c8ef2?pvs=74  |
+| Article Medium | https://jeangaming.substack.com/p/astuce-hay-day-2026-comment-avoir |
+| Article Substack | https://jeangaming.substack.com/p/astuce-hay-day-2026-comment-avoir |
 | Google Sites | *(à ajouter)* |
 | GitBook | *(à ajouter)* |
-| Telegra.ph | *(à ajouter)* |
+| Telegra.ph | https://telegra.ph/D%C3%A9s-gratuits-Monopoly-GO-2026--5-m%C3%A9thodes-officielles-qui-marchent-le-reste-cest-du-vent-03-19 |
 | Toutes les ressources | [greedyhog-games.com](https://greedyhog-games.com) |
 
 ---
